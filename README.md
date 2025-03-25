@@ -1,1 +1,1 @@
-https://open.kattis.com/problems/hipphipphurra
+https://open.kattis.com/problems/humancannonball2
