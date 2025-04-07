@@ -33,9 +33,7 @@ class humancannonball2
             float maxHeight = h2 - 1;
             float minHeight = h1 + 1;
             if (height >= minHeight && height <= maxHeight)
-            {
                 Console.WriteLine("Safe");
-            }
             else Console.WriteLine("Not Safe");
         }
     }
